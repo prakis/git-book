@@ -9,7 +9,7 @@ description: This page explains how git works
 Becoming a super hero is a fairly straight forward process:
 
 ```
-$ give me super-powers
+$ git add *
 ```
 
 {% hint style="info" %}

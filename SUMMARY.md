@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hello](README.md)
+* [What is Git?](what-is-git.md)
 
 ## Basics
 
