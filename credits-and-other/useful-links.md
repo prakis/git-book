@@ -14,8 +14,6 @@ description: 'Som good articles, tutorials on Git.'
 
 ## 
 
-## 
-
 {% embed url="https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1" %}
 
 
