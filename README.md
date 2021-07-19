@@ -1,25 +1,18 @@
 ---
-description: Just started comeback after few days....
+description: >-
+  I noticed some junior devs struggle with Git. This is a simple tutorial for
+  understanding and learning baiscs of how to use Git.
 ---
 
-# Hello
+# Hello,
 
-## Getting Super Powers
+## So, What is Git? 
 
-Becoming a super hero is a fairly straight forward process:
+Git is a Source Control, sometimes it is also called Version Control. So, what is Source control?
 
-```
-$ give me super-powers
-```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the worl
-```
-{% endcode %}
+
+
+
 
