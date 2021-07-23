@@ -1,8 +1,8 @@
 ---
-description: 'Som good articles, tutorials on Git.'
+description: 'Some good articles, tutorials on Git.'
 ---
 
-# Links
+# Useful Links
 
 ## [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 

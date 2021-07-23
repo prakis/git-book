@@ -16,6 +16,6 @@
 
 ## Credits & Other
 
-* [Links](credits-and-other/useful-links.md)
+* [Useful Links](credits-and-other/useful-links.md)
 * [Credits](credits-and-other/credits.md)
 
