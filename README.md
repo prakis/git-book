@@ -1,7 +1,5 @@
 ---
-description: >-
-  I noticed some junior devs struggle with Git. This is a simple tutorial for
-  understanding and learning baiscs of how to use Git.
+description: This is a simple tutorial for understanding and learning baiscs of Git.
 ---
 
 # Hello,
