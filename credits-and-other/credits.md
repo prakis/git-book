@@ -1,6 +1,6 @@
 # Credits
 
-This website is built on gitbook.com
+Git-help.com is built and hosted on [Gitbook.com](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=prakis) Thank you Gitbook.
 
 
 
