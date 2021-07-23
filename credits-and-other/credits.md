@@ -4,5 +4,5 @@ This website is built on gitbook.com
 
 
 
-by Kishore @prakis
+by Kishore [@prakis](https://twitter.com/prakis)
 
