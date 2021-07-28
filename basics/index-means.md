@@ -1,2 +1,2 @@
-# Index means
+# What is Index ?
 
