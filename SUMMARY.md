@@ -22,4 +22,5 @@
 ## Tips
 
 * [git undo add](tips/git-undo-add.md)
+* [remote repo url](tips/remote-repo-url.md)
 
