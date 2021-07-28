@@ -8,6 +8,7 @@
 * [Add](basics/git-add.md)
 * [Commit](basics/commit.md)
 * [Push](basics/push.md)
+* [Index means](basics/index-means.md)
 
 ## Advanced
 
@@ -21,6 +22,7 @@
 
 ## Tips
 
-* [git undo add](tips/git-undo-add.md)
-* [remote repo url](tips/remote-repo-url.md)
+* [Reset a file](tips/reset-a-file.md)
+* [Undo git add](tips/git-undo-add.md)
+* [Get remote repo url](tips/remote-repo-url.md)
 

@@ -2,7 +2,7 @@
 description: How to get remote repository url
 ---
 
-# remote repo url
+# Get remote repo url
 
 To get only remote url run
 

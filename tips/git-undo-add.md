@@ -2,7 +2,7 @@
 description: How to undo/remove file after  'git add'
 ---
 
-# git undo add
+# Undo git add
 
 Lets say you mistakenly added a file using the following command.
 
