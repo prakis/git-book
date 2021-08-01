@@ -1,8 +1,8 @@
 ---
-description: This is a simple tutorial for understanding and learning baiscs of Git.
+description: This is a simple tutorial for understanding Git basics.
 ---
 
-# Hello,
+# Introduction
 
 ## So, What is Git? 
 
