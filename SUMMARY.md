@@ -5,20 +5,16 @@
 ## Basics
 
 * [How Git Works](basics/how-git-works.md)
-* [Add](basics/git-add.md)
+* [Git Add](basics/git-add.md)
 * [Commit](basics/commit.md)
 * [Push](basics/push.md)
 * [What is Index ?](basics/index-means.md)
+* [git amend](basics/git-amend.md)
 
 ## Advanced
 
 * [Merge](advanced/merge.md)
 * [Conflict](advanced/conflict.md)
-
-## Credits & Other
-
-* [Useful Links](credits-and-other/useful-links.md)
-* [Credits](credits-and-other/credits.md)
 
 ## Tips
 
@@ -26,4 +22,9 @@
 * [Undo git add](tips/git-undo-add.md)
 * [Get remote repo url](tips/remote-repo-url.md)
 * [Add or Set Remote URL](tips/add-or-set-remote-url.md)
+
+## Credits & Other
+
+* [Useful Links](credits-and-other/useful-links.md)
+* [Credits](credits-and-other/credits.md)
 

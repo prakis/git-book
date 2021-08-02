@@ -2,7 +2,7 @@
 description: What is git add
 ---
 
-# Add
+# Git Add
 
 what happens when you do git add
 
