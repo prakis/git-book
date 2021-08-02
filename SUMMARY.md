@@ -13,8 +13,8 @@
 
 ## Advanced
 
-* [Merge](advanced/merge.md)
-* [Conflict](advanced/conflict.md)
+* [merge](advanced/merge.md)
+* [rebase](advanced/conflict.md)
 
 ## Tips
 
@@ -25,6 +25,6 @@
 
 ## Credits & Other
 
-* [Useful Links](credits-and-other/useful-links.md)
+* [Good Links](credits-and-other/useful-links.md)
 * [Credits](credits-and-other/credits.md)
 
