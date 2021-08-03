@@ -1,5 +1,5 @@
 ---
-description: This is a simple tutorial for understanding Git basics.
+description: A simple tutorial for understanding Git basics.
 ---
 
 # Introduction
