@@ -7,7 +7,6 @@
 * [How Git Works](basics/how-git-works.md)
 * [Git Add](basics/git-add.md)
 * [Commit & amend](basics/commit.md)
-* [git amend](basics/git-amend.md)
 * [Push](basics/push.md)
 * [What is Index ?](basics/index-means.md)
 
