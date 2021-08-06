@@ -5,6 +5,7 @@
 ## Basics
 
 * [How Git Works](basics/how-git-works.md)
+* [Branch](basics/branch.md)
 * [Git Add](basics/git-add.md)
 * [Commit & amend](basics/commit.md)
 * [Push](basics/push.md)
