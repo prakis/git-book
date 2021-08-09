@@ -1,5 +1,5 @@
 ---
-description: A simple tutorial for understanding Git basics.
+description: A simple tutorial for understanding Git basics. ( Work in progress...)
 ---
 
 # Hello
