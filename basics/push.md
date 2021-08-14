@@ -1,6 +1,0 @@
----
-description: git push
----
-
-# Push
-
