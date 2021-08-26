@@ -6,11 +6,7 @@ description: 'Some good articles, tutorials on Git.'
 
 ## [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
-#### [try.github.io](https://try.github.io/)
-
-#### [git-school.github.io/visualizing-git](http://git-school.github.io/visualizing-git/)
-
-#### [learngitbranching.js.org](https://learngitbranching.js.org/)
+#### [https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 #### A nice explaination of git [https://eagain.net/articles/git-for-computer-scientists/](https://eagain.net/articles/git-for-computer-scientists/)
 
@@ -18,5 +14,11 @@ description: 'Some good articles, tutorials on Git.'
 
 {% embed url="https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1" %}
 
+### To pracitice
 
+#### [try.github.io](https://try.github.io/)
+
+#### [git-school.github.io/visualizing-git](http://git-school.github.io/visualizing-git/)
+
+#### [learngitbranching.js.org](https://learngitbranching.js.org/)
 

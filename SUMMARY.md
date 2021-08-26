@@ -2,11 +2,9 @@
 
 * [How Git Works](README.md)
 * [Basics](basics-1.md)
+* [Git Branching](git-branching.md)
 
 ## Advanced
-
-* [merge](advanced/merge.md)
-* [rebase](advanced/conflict.md)
 
 ## Tips
 
