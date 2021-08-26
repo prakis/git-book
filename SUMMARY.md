@@ -4,10 +4,9 @@
 * [Basics](basics-1.md)
 * [Git Branching](git-branching.md)
 
-## Advanced
-
 ## Tips
 
+* [Amend a commit](tips/amend-a-commit.md)
 * [Reset a file](tips/reset-a-file.md)
 * [Undo git add](tips/git-undo-add.md)
 * [Get remote repo url](tips/remote-repo-url.md)
@@ -15,6 +14,6 @@
 
 ## Credits & Other
 
-* [Good Links](credits-and-other/useful-links.md)
+* [Other good links](credits-and-other/useful-links.md)
 * [Credits](credits-and-other/credits.md)
 

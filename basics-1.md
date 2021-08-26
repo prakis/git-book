@@ -71,16 +71,6 @@ You may wonder why will your code in your local repository different to your wor
 git merge
 ```
 
-### Git Amend
-
-Lets say you commited your code to local repository and later you found you want to add or modify that commit, you will use amend 
-
-```text
-git commit --amend
-```
-
-> Note:- this amend works only for the local git commit which is not yet pushed to remote repo.
-
 ### 
 
 

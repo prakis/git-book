@@ -2,7 +2,7 @@
 description: 'Some good articles, tutorials on Git.'
 ---
 
-# Good Links
+# Other good links
 
 ## [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
