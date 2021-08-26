@@ -2,7 +2,7 @@
 description: A simple tutorial for understanding Git basics.
 ---
 
-# How Git Works
+# A Simple Git Help
 
 ## So, What is Git? 
 

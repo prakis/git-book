@@ -1,6 +1,6 @@
 # Table of contents
 
-* [How Git Works](README.md)
+* [A Simple Git Help](README.md)
 * [Basics](basics-1.md)
 * [Git Branching](git-branching.md)
 
