@@ -1,12 +1,8 @@
 ---
-description: Commands for basic git operations
+description: Commands and their purpose for basic git operations
 ---
 
 # Basics
-
-{% hint style="info" %}
-Please note that most of the commands in this page are based on the example and understanding of the first chapter "How Git Works".
-{% endhint %}
 
 
 
