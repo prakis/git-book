@@ -16,3 +16,7 @@ git commit --amend
 
 > Note:- this amend works only for the local git commit which is not yet pushed to remote repo.
 
+
+
+git rebase --continue
+
