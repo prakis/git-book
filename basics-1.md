@@ -67,7 +67,9 @@ You may wonder why will your code in your local repository different to your wor
 git merge
 ```
 
-### 
+{% hint style="info" %}
+A good tutorial on git merge [https://www.atlassian.com/git/tutorials/using-branches/git-merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+{% endhint %}
 
 
 
