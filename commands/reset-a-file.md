@@ -4,15 +4,13 @@ description: To reset a file to the original file
 
 # Reset a file
 
-To reset a file to Index with latest version Git 2.23
+To reset a file to its orginal file \(remove your changes to the file abc.txt\)
 
 ```text
-git restore abc.txt
-```
+# With Git 2.23
+git restore abc.txt  
 
-With older version of git, following will work
-
-```text
+# With older version of git
 git checkout -- abc.txt
 ```
 
