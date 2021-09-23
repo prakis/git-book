@@ -4,7 +4,7 @@ description: How to get remote repository url
 
 # Get remote repo url
 
-To get only remote url run
+To get remote url run
 
 ```text
 git config --get remote.origin.url
