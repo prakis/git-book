@@ -66,7 +66,7 @@ git commit -m "code for image compression"
 
 > With this commit action both of these files are grouped together and given a label called 'code for image compression'.
 
-Step-3: Once you label your code changes and add it to the Local Repository now is the step to move that commit to the **Remote Git Repository.**
+**Step-3: Once you label your code changes and add it to the Local Repository now is the step to move that commit to the Remote Git Repository.**
 
 ```text
 # This is how you push your local code (commit) to the remote git repository
