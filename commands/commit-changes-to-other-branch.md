@@ -14,7 +14,7 @@ git stash pop
 
 ```
 git branch otherBranch
-git checkout -b otherBranch
+git checkout -m otherBranch
 ```
 
 #### Type 3:
