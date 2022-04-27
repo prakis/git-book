@@ -4,6 +4,7 @@
 * [Basics](basics-1.md)
 * [Git Branching](git-branching.md)
 * [Pull Request](pull-request.md)
+* [Submodules](submodules.md)
 
 ## Commands
 
