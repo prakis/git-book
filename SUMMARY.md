@@ -6,7 +6,7 @@
 * [Pull Request](pull-request.md)
 * [Submodules](submodules.md)
 
-## Commands
+## Commands / Actions <a href="#commands" id="commands"></a>
 
 * [Commit changes to other branch](commands/commit-changes-to-other-branch.md)
 * [git log](commands/git-log.md)
