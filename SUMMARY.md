@@ -17,6 +17,7 @@
 * [Undo git add](commands/git-undo-add.md)
 * [Get remote repo url](commands/remote-repo-url.md)
 * [Add or Set Remote URL](commands/add-or-set-remote-url.md)
+* [delete branch](commands/delete-branch.md)
 
 ## Credits & Other
 
